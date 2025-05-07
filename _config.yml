@@ -16,6 +16,10 @@ homelinks:
     url: /about
   - name: Open Alert Viewer
     url: /apps/open-alert-viewer
+  - name: Kaya
+    url: /apps/kaya
+  - name: swirlnet
+    url: /apps/swirlnet
 
 sociallinks:
   - icon: github
