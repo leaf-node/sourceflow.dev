@@ -5,7 +5,7 @@ edited: 2025-02-03
 layout: page
 ---
 
-👋 Welcome! I develop libre, open source mobile and desktop apps with
+👋 Welcome! I develop libre, open source web, mobile and desktop apps with
 expressive code, intuitive UX, and responsive design. Show your support by
 giving me a star 🌟 on [GitHub](https://github.com/leaf-node/), or by sharing
 with friends.
