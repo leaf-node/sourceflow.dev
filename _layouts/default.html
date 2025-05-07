@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+
+    {% if page.url == "/donate/" %}
+        <meta http-equiv="refresh" content="0; url=https://buymeacoffee.com/sandpiper.codes">
+    {% endif %}
+
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | absolute_url }}">
+    <link rel="shortcut icon" type="image/png" href="{{ "/assets/img/favicon.png" | absolute_url }}">
+  </head>
+  <body>
+    <header>
+      <span><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></span>
+      <ul>
+        {% for link in site.navlinks %}
+          <li><a href="{{ link.url | absolute_url }}">{{ link.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </header>
+    <div class="content">
+
+      {{ content }}
+
+    </div>
+    <footer>
+        <div class="dark">
+            © {{ site.time | date: '%Y' }}&nbsp; <a href="{{ "/" | absolute_url }}">{{ site.author }}</a>
+            &nbsp;|&nbsp; <a href="{{ "/about/legal/" | absolute_url }}">Legal</a>
+        </div>
+    </footer>
+  </body>
+</html>

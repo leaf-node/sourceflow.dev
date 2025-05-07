@@ -1,0 +1,53 @@
+title: sourceflow.dev
+description: Beautiful web and cross-platform apps
+email: andrew@sourceflow.dev
+author: Andrew Engelbrecht
+logo: assets/img/andrew-wpap-500.png
+
+navlinks:
+  - name: About
+    url: /about
+  - name: Apps
+    url: /apps
+
+homelinks:
+  - name: About
+    url: /about
+  - name: Open Alert Viewer
+    url: /apps/open-alert-viewer
+
+sociallinks:
+  - icon: github
+    url: https://github.com/leaf-node/
+  - icon: mastodon
+    url: https://mastodon.social/@vegantacos
+
+defaults:
+  - scope:
+      path: "" # all files
+    values:
+      layout: default
+      image: assets/img/andrew-wpap-500.png
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+include:
+  - about
+  - apps
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
