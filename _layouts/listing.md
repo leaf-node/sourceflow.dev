@@ -5,7 +5,8 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <ul class="listing">
-{% for p in site.pages %}
+{% assign pages = site.pages | sort: 'date' | reverse %}
+{% for p in pages %}
    {% if p.categories contains page.category %}
      <li>
         <a href="{{ p.url | absolute_url }}">
