@@ -7,7 +7,11 @@
 {% seo %}
 
     {% if page.url == "/donate/" %}
-        <meta http-equiv="refresh" content="0; url=https://buymeacoffee.com/sandpiper.codes">
+        {% for social in site.sociallinks %}
+        {% if social.icon == "buymeacoffee" %}
+            <meta http-equiv="refresh" content="0; url={{ social.url }}">
+        {% endif %}
+        {% endfor %}
     {% endif %}
 
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | absolute_url }}">
