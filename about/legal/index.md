@@ -7,8 +7,9 @@ layout: page
 
 ### Trademarks of third-parties
 
-This site may nominatively reference the names or logos of third party
-software, which are trademarked by their respective owners. The creators of
-this site and its software are not endorsed by, nor affiliated with, owners of
-third party software.
+This site, and its linked apps, source code, and documentation may nominatively
+reference the names or logos of third party software, which are trademarked by
+their respective owners. This site, its linked apps, source code,
+documentation, and its owners are not endorsed by, nor affiliated with, owners
+of third party software.
 
