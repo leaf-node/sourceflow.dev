@@ -26,6 +26,8 @@ sociallinks:
     url: https://github.com/leaf-node/
   - icon: mastodon
     url: https://mastodon.social/@vegantacos
+  - icon: email
+    url: mailto:andrew@sourceflow.dev
   - icon: buymeacoffee
     url: https://buymeacoffee.com/sourceflow.dev
 
