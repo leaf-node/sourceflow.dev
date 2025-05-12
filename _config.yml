@@ -22,13 +22,17 @@ homelinks:
     url: /apps/swirlnet
 
 sociallinks:
-  - icon: github
+  - name: github
+    icon: github.svg
     url: https://github.com/leaf-node/
-  - icon: mastodon
+  - name: mastodon
+    icon: mastodon.svg
     url: https://mastodon.social/@vegantacos
-  - icon: email
+  - name: email
+    icon: email.svg
     url: mailto:andrew@sourceflow.dev
-  - icon: buymeacoffee
+  - name: buymeacoffee
+    icon: buymeacoffee.svg
     url: https://buymeacoffee.com/sourceflow.dev
 
 defaults:

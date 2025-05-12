@@ -8,7 +8,7 @@
 
     {% if page.url == "/donate/" %}
         {% for social in site.sociallinks %}
-        {% if social.icon == "buymeacoffee" %}
+        {% if social.name == "buymeacoffee" %}
             <meta http-equiv="refresh" content="0; url={{ social.url }}">
         {% endif %}
         {% endfor %}
