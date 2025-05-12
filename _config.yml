@@ -31,6 +31,9 @@ sociallinks:
   - name: email
     icon: email.svg
     url: mailto:andrew@sourceflow.dev
+  - name: linkedin
+    icon: linkedin.png
+    url: https://www.linkedin.com/in/andrew-engelbrecht/
   - name: buymeacoffee
     icon: buymeacoffee.svg
     url: https://buymeacoffee.com/sourceflow.dev
