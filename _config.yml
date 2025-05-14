@@ -6,10 +6,10 @@ logo: assets/img/bird-logo-512-bg.png
 url: https://sourceflow.dev
 
 navlinks:
-  - name: About
-    url: /about
   - name: Apps
     url: /apps
+  - name: Resumé
+    url: /assets/pdf/Andrew-Engelbrecht-resume.pdf
 
 homelinks:
   - name: About
