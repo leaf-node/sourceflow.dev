@@ -1,7 +1,7 @@
 ---
 title: "Open Alert Viewer Privacy Policy"
 date: 2024-10-24
-edited: 2025-03-20
+edited: 2025-08-07
 layout: page
 image: assets/img/open-alert-viewer-icon-buffered.png
 ---

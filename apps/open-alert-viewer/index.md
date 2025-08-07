@@ -1,7 +1,7 @@
 ---
 title: "Open Alert Viewer"
 date: 2024-08-30
-edited: 2025-01-24
+edited: 2025-08-07
 layout: page
 categories: [apps]
 image: assets/img/open-alert-viewer-icon-buffered.png
