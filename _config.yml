@@ -22,9 +22,9 @@ homelinks:
     url: /apps/swirlnet
 
 sociallinks:
-  - name: github
-    icon: github.svg
-    url: https://github.com/leaf-node/
+  - name: codeberg
+    icon: codeberg.svg
+    url: https://codeberg.org/leaf-node/
   - name: mastodon
     icon: mastodon.svg
     url: https://mastodon.social/@vegantacos
