@@ -35,8 +35,8 @@ Basic Authentication; partial support, and default authentication for Zabbix
 
 <div style='display: flex; align-items: center; justify-content: center; flex-wrap: wrap; margin: 20px;'>
 
-<a href='https://github.com/sandpiper-codes/open_alert_viewer/'>
-<img width='80' height='80' style='display: inline-block; margin: 10px' src="/assets/img/social/github.svg"/></a>
+<a href='https://codeberg.org/leaf-node/open_alert_viewer/'>
+<img width='80' height='80' style='display: inline-block; margin: 10px' src="/assets/img/social/codeberg.svg"/></a>
 
 <a href='https://f-droid.org/en/packages/studio.okcode.open_alert_viewer/'>
 <img width='269' height='80' style='display: inline-block; margin: 10px' alt='Get it on F-Droid' src='/assets/img/f-droid-badge.png'/></a>
@@ -44,16 +44,15 @@ Basic Authentication; partial support, and default authentication for Zabbix
 <a href='https://flathub.org/apps/studio.okcode.open_alert_viewer'>
 <img width='240' height='80' style='display: inline-block; margin: 10px' alt='Get it on Flathub' src='{{ "/assets/img/flathub-badge.svg" | absolute_url }}'/></a>
 
-<a href='https://github.com/sandpiper-codes/open_alert_viewer/releases'>
+<a href='https://codeberg.org/leaf-node/open_alert_viewer/releases'>
 <img width='240' height='80' style='display: inline-block; margin: 10px' alt='Get *.deb and *.tar.gz' src='{{ "/assets/img/generic-badge.svg" | absolute_url }}'/></a>
 
 </div>
 
 ## Details
 
-The app is under the MIT / Expat license, and the dependencies are under
-the MPL-2.0 and a variety of permissive / lax licenses. ([More
-info](https://github.com/sandpiper-codes/open_alert_viewer/blob/main/LICENSE.md))
+The app is under the MIT / Expat license, and the dependencies are under the
+MPL-2.0 and a variety of permissive / lax licenses.
+([More info](https://codeberg.org/leaf-node/open_alert_viewer/blob/main/LICENSE.md))
 
 The app also has a [privacy policy](./privacy-policy/).
-
