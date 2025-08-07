@@ -80,9 +80,11 @@ backed-up versions of the data you entered into the app.
 
 ### Third Parties
 
-Sites linked to from the app, such as [GitHub](https://github.com) and [Buy Me
-a Coffee](https://buymeacoffee.com), are not controlled by Andrew Engelbrecht,
-so the owners of those sites are responsible for their own privacy policies.
+Sites linked to from the app, such as [GitHub](https://github.com),
+[Codeberg](htttps://codeberg.org) and
+[Buy Me a Coffee](https://buymeacoffee.com), are not controlled by Andrew
+Engelbrecht, so the owners of those sites are responsible for their own privacy
+policies.
 
 The owners of remote servers you configure the app to connect to are
 responsible for their own privacy policies regarding the handling and recording
