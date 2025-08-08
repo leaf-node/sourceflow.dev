@@ -1,6 +1,4 @@
-# sourceflow.dev
+# Code Moved
 
-This repo's source code is intended to be used to generate the site
-<https://sourceflow.dev>.
-
-See `LICENSE.md` for license information.
+This repository has been moved to Codeberg:
+<https://codeberg.org/leaf-node/sourceflow.dev>
